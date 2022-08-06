@@ -1,0 +1,16 @@
+input {
+  display: block;
+  opacity: 1;
+}
+
+.list {
+  display: none;
+}
+
+input:checked ~ .list {
+  display: block;
+}
+
+body {
+  display: flex;
+}/*# sourceMappingURL=main2.css.map */

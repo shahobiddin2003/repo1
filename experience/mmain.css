@@ -1,0 +1,9 @@
+input {
+  display: block;
+  opacity: 0;
+}
+.list {
+  display: none;
+}
+
+
